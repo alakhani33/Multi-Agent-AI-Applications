@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+CREWAI_PROJECTS/.env
+CREWAI_PROJECTS/L2_research_write_article_with_gradio.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
